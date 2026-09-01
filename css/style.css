@@ -186,3 +186,23 @@ p {
 	font-weight: 800;
 	border-width: 3px;
 }
+
+/*MEMBRES FONDATEURS*/
+
+.whiteContentSection article {
+	width: 25%;
+}
+
+.whiteContentSection article img {
+	width: 100%;
+	height: auto;
+}
+
+
+/*COURS*/
+
+.sectionLightGreyBackground .button {
+	width: 30%;
+	margin-left: 20px;
+	margin-right: 20px;
+}
